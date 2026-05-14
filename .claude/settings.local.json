@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/lubo/.claude/plans/**)",
+      "Read(//c/Users/lubo/.claude/**)"
+    ]
+  }
+}
