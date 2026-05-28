@@ -44,3 +44,6 @@ def chat(message, history):
 - OpenAI agents SDK: makes handling of tool calls easy (https://developers.openai.com/api/docs/guides/agents)
 
 
+# Week 4
+TODO Day 5 rust exercise
+
